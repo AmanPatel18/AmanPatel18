@@ -19,10 +19,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Aman_Patel_18 | Twitter" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][twitter]
 [<img align="left" alt="AmanPatel18 | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 [<img align="left" alt="_aman_patel_18 | Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/174/174855.png" />][instagram]
-[<img align="left" alt="AmanPatel | Facebook" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/145/145802.svg" />][facebook]
 <br />
 
 ---
